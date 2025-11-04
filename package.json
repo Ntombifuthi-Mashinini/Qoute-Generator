@@ -1,0 +1,30 @@
+{
+  "name": "qoute-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntombifuthi-Mashinini/Qoute-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntombifuthi-Mashinini/Qoute-Generator/issues"
+  },
+  "homepage": "https://github.com/Ntombifuthi-Mashinini/Qoute-Generator#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "vite": "^7.1.12"
+  }
+}
+
+
