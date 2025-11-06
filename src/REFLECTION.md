@@ -17,7 +17,7 @@ This project was more than just building a quote generator, it was a hands-on le
 I was inspired by the clean aesthetic of apps I use every day on my PC and phone. I wanted the interface to feel calm, uncluttered, and easy to use. No distractions, just the quote and a couple of buttons. I kept the CSS simple and easy to understand, avoiding advanced tricks or code that didn’t feel like ME.
 
 
-## hallenges I Faced
+## Challenges I Faced
 
 - Getting the favicon to show up took some trial and error, I had to learn about browser caching and file placement.
 - I had to troubleshoot file structure issues, especially with `main.jsx` and the `public/` folder.
