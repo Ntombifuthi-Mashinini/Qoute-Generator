@@ -57,6 +57,10 @@ export default function App() {
           <div className="author">— {current.author}</div>
         </div>
 
+        <footer className="footer">
+          Built with ❤️ by Ntombifuthi
+        </footer>
+
         <div className="controls">
           <button className="btn primary" onClick={nextQuote}>
             New Quote
@@ -65,10 +69,10 @@ export default function App() {
             Copy
           </button>
         </div>
-
       </div>
     </div>
   )
 }
+
 
 
